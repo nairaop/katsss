@@ -1,7 +1,7 @@
-# CatUserbot
+# NAIRAHNY
 
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/e1bcc91dda7a3de052592.jpg)](https://t.me/catuserbot_support) 
+[![catuserbot logo](https://te.legra.ph/file/5c8d41d867e79ef11f540.jpg)](https://t.me/bnsfighters) 
 
 ## Deployment
 > Click on buttons to expands! 
@@ -36,7 +36,7 @@ A simple Telegram userbot based on Telethon .
 > Those two vars are not Mandatory! You can leave them blank too but I would suggest to keep them. 
   
 <h4>Click the button below to deploy Catuserbot on Heroku!</h4> 
-<p><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/katsss"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
+<p><a href="https://heroku.com/deploy?template=https://github.com/nairaop/katsss"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
   
 </details> 
 
@@ -55,8 +55,8 @@ A simple Telegram userbot based on Telethon .
 
 ## Contact & Support
 
-- [Catuserbot Channel](https://t.me/catuserbot17)
-- [Catuserbot Support Group](https://t.me/catuserbot_support)
+- [Catuserbot Channel](https://t.me/bnsfighters)
+- [Catuserbot Support Group](https://t.me/bnsfighters)
 
 ## License
 
