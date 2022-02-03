@@ -1,13 +1,13 @@
 {
-  "name": "Catuserbot",
+  "name": "✮‌𓆩𝐁𝐍𝐒𓆪➻❥⃟🅽🅰🅸🆁🅰༗❅✸⁂✧❀❁❦✰.｡.✵°✵,¸.•",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://te.legra.ph/file/5c8d41d867e79ef11f540.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Jisan09/catuserbot/",
+  "repository": "https://github.com/nairaop/catuserbot/",
   "stack": "container", 
   "website": "#TODO",
   "success_url": "#TODO",
